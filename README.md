@@ -1,25 +1,14 @@
-# ReduxSimpleStarter
+# reactTestClient
+This is the client side app for a reactTest Project.
+It should be run concurently with the server side app.
+The repo for the server side app is https://github.com/chibuzc/reactTestServer.git
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+It is a simple login application using react and redux for client side rendering.
 
-### Getting Started
+# RUNNING THE APP
+Checkout this repo, install dependencies, then start by running the following:
 
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
+> git clone https://github.com/chibuzc/reactTestClient.git
+> cd reactTestClient
 > npm install
 > npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
